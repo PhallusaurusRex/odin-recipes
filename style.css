@@ -1,0 +1,52 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-color: #bc92d6;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+ul {
+    background-color: #1568dd;
+    border: black solid;
+    color: black;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    list-style: square;
+}
+
+.ingredients {
+    background-color: rgb(208, 66, 66);
+    color: black;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+ol {
+    background-color: #d4e278;
+    border: black solid;
+    color: black;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
